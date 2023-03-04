@@ -1,0 +1,31 @@
+.login{
+    height: 100vh;
+    background-color: rgb(193,190,255);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    .card{
+        display: flex;
+        background-color: rgb(255, 255, 255);
+        border-radius: 10px;
+        width: 50%;
+     
+        .left{
+            flex:1;
+            background: url();
+            h1{}
+            p{}
+            span{}
+            button{}
+
+        }
+        .right{
+            flex:1;
+            h1{}
+            form{
+                input{}
+                button{}
+            }
+        }
+    }
+}
